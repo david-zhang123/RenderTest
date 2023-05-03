@@ -4,4 +4,4 @@ latex2sympy2==1.9.1
 matplotlib==3.5.3
 mpld3==0.5.9
 numpy==1.21.6
-sympy==1.11.1
+sympy==1.10.1
